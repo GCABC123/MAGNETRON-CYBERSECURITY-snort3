@@ -204,6 +204,8 @@ It also covers new features not demonstrated here:
 * improved rule parsing - arbitrary whitespace, C style comments, #begin/#end comments
 * local and remote command line shell
 
+**RULE WRITING GUIDE: https://docs.snort.org/welcome**
+
 # SQUEAL
 `o")~`
 
